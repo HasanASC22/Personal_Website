@@ -6,5 +6,5 @@ function appear(id) {
        e.style.display = 'block';
  }
 
- const collection = document.getElementsByClassName("logo");
- collection.style.backgroundColor = "black";
+//  const collection = document.getElementsByClassName("logo");
+//  collection.style.backgroundColor = "black";
